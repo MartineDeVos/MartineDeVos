@@ -7,7 +7,8 @@ Together with my team I support researchers at Utrecht University in applying di
 We also help them making their data and software accessible and reusable, in line with the Open Science and FAIR principles.
 **By doing so, we increase the impact of their important work.**
 
-**CV**
+**CV **
+
 I obtained my masters degrees in biology and environmental sience at Wageningen University. After my graduation I worked for the PBL Netherlands Environmental Assessment Agency. In 2017 I optained my PhD degree in computer science at VU University on the subject of knowledge engineering and linked data. Afterwards, I worked as a research engineer at the Netherlands eSciencecenter. I joined the Research Engineering team at Utrecht University in March 2019.
 
 **Links**
